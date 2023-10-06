@@ -8,7 +8,7 @@ This is the BACKEND repository. The FRONTEND repository can be found [here](http
 
 The following contains steps to run the application with the assumption that the user has access to both repositories (Frontend and Backend)
 
-1. Create a local copy of both the frontend repository and the backend repository.
+1. Create a local copy of both the frontend repository and the backend repository and open up two terminals, one will be for running the front end and the other for the backend.
 
    Let's start with the backend
 
