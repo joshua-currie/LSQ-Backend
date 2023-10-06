@@ -15,7 +15,7 @@ The following contains steps to run the application with the assumption that the
 2. In the terminal meant to run the backend, navigate into the directory containing the backend project. 
 HINT: If you do the **ls** command, you should see Angular-Component-data, Api-Service, run_apis.bat, and run_apis.sh.
 
-3. Once in the right directory, run either **run_apis.bat** or **run_apis.bat** depending on your operating system and other external configurations. 
+3. Once in the right directory, run either **run_apis.sh** or **run_apis.bat** depending on your operating system and other external configurations. 
 NOTE: Because the python api scripts involve the flask library and flask cors, it might be necessary to install flask/flask_cors if it is not installed already (**pip install flask_cors**)
 
 4. The backend and API services should be live now on ports:5000, 5001, 5002, 5003, and 5004. One for each individual API in order to promote isolation and flexibility.
