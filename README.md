@@ -25,7 +25,7 @@ NOTE: Because the python api scripts involve the flask library and flask cors, i
 5. In the terminal meant to run the frontend, navigate into the directory containing the backend project. 
 Hint: If you do the **ls** command, you should see the src folder within this directory.
 
-6. Then, provide node.js is already installed, run **npm install**.
+6. Then, provided node.js is already installed, run **npm install**.
 
 7. After that, run **npm uninstall ng2-charts**, and then **npm install ng2-charts@2.3.0** to change the charts library into a more stable version.
 
