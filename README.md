@@ -22,7 +22,7 @@ NOTE: Because the python api scripts involve the flask library and flask cors, i
 
    Time for the frontend
 
-5. In the terminal meant to run the frontend, navigate into the directory containing the backend project. 
+5. In the terminal meant to run the frontend, navigate into the directory containing the frontend project. 
 Hint: If you do the **ls** command, you should see the src folder within this directory.
 
 6. Then, provided node.js is already installed, run **npm install**.
